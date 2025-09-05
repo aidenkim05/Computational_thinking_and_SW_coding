@@ -1,3 +1,4 @@
+#파이썬 소개
 
 #1.3
 print(100)
@@ -132,4 +133,5 @@ calculate(10,30)
 calculate(8000,2000)
 calculate(12000,2000)
 calculate(80000000,20000000)
+
 
